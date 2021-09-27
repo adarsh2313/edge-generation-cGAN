@@ -82,5 +82,3 @@ discriminator = Discriminator()
 generator = Generator()
 discriminator.to(device)
 generator.to(device)
-
-print(generator)
